@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "S20 ultra",
+        "desc" : "The Samsung Galaxy S20 Ultra is a flagship smartphone that was released in 2020. It features a large 6.9-inch Dynamic AMOLED display with a resolution of 1440x3200 pixels1. The phone is powered by either the Snapdragon 865 or Exynos 990 chipset, paired with up to 16GB of RAM",
+        "price" : "300.05"
+    },
+    {
+        "name" : "S21 ultra",
+        "desc" : "The Samsung Galaxy S21 Ultra is a high-end Android phone that was released in 2021. It features a large 6.8-inch Dynamic AMOLED display with a resolution of 3200x1440 pixels and a refresh rate of up to 120Hz1. The phone is powered by either the Snapdragon 888 or Exynos 2100 chipset, paired with up to 16GB of RAM1.",
+        "price" : "400.00"
+    },
+    {
+        "name":"S22 ultra",
+        "desc":"The Samsung Galaxy S22 Ultra is a high-end smartphone that was released in 2022. It features a large 6.8-inch Dynamic AMOLED display with a resolution of 3088 x 1440 pixels and a refresh rate of 120Hz1. The phone is powered by either the Snapdragon 8 Gen 1 or Exynos 2200 chipset, paired with 8GB or 12GB of RAM1.",
+        "price":550.00
+    },
+    {
+        "name":"S23 ultra",
+        "desc":"The Samsung Galaxy S23 Ultra is a flagship smartphone that was released in 2023. It features a large 6.8-inch Dynamic AMOLED 2X display with a resolution of 1440x3088 pixels and a refresh rate of 120Hz1. The phone is powered by the Snapdragon 8 Gen 2 chipset, paired with 8GB or 12GB of RAM1",
+        "price":600.00
+    },
+    {
+        "name":"Note10 s",
+        "desc":"The Samsung Galaxy Note10 is a high-end smartphone that was released in 2019. It features a 6.3-inch Dynamic AMOLED display with a resolution of 1080x2280 pixels1. The phone is powered by either the Snapdragon 855 or Exynos 9825 chipset, paired with 8GB of RAM1",
+        "price":750.05
+    }
+]
